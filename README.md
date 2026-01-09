@@ -7,6 +7,6 @@ In this final part, the goal is to create a customized document applicable to ev
 
 The repository includes: A README (which presents the main points of the project), a reflective note, an ODD file from which the HTML and RNG files are derived. And finally, three documents in XML format. 
 
-# Generative AI 
+# Use of AI 
 
-We used generative AI to help with translation (French-English of difficult words) and to debug certain errors in the part related to the "Schematron".
+We used "Google translate" to help us translate difficult words in order to improve our style, and to debug certain errors in the part related to the "Schematron".
