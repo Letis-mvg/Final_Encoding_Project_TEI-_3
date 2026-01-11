@@ -10,8 +10,7 @@ Working of ODD helped me realize that encoding is a form of interpretation. Choo
 
 # Difficulties encountered
 
-I also struggled with Schematron constraints at first. My initial rules did not work as expected, but by simplifying the XPath expressions and testing them step by step, I managed to enforce stanza length constraints successfully.
-Overall, this assignment significantly improved my understanding of TEI as a flexible yet rigorous framework.
+I also struggled with Schematron constraints at first. My initial rules did not work as expected, but by simplifying the XPath expressions and testing them step by step, I managed to enforce stanza length constraints successfully. This last part was particularly difficult for me. Oxygen kept crashing and I really struggled to associate my RNG document with my 3 XML schemas. 
 
 
 
