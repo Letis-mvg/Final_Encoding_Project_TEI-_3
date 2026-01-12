@@ -11,7 +11,7 @@ Working of ODD helped me realize that encoding is a form of interpretation. Choo
 # Difficulties encountered
 
 I also struggled with Schematron constraints at first. My initial rules did not work as expected, but by simplifying the XPath expressions and testing them step by step, I managed to enforce stanza length constraints successfully. This last part was particularly difficult for me. Oxygen kept crashing and I really struggled to associate my RNG document with my 3 XML schemas. 
-I was unable to achieve my goal. I was able to create a valid ODD document, from which I generated the HTML documents and the RNG file. However, I was unable to perform the validations with my XML documents.
+I wasn't able to achieve my goal. I managed to create a valid ODD document, from which I generated the HTML documents and the RNG file. It took me several weeks to find a solution to the validation problems with my XML documents. Especially regarding the <div> element; in the <l> tag, I wasn't clearly specifying the applicable parameters. I also struggled to properly create and reference my modules, so I could apply the child elements that reference them. That is why I had to delete my files and re-upload them to github; given the quality of the teaching received, I set myself the goal of having my files validated by my RNG.
 
 
 
